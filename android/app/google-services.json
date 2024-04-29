@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398760642952",
+    "project_id": "trail-2f143",
+    "storage_bucket": "trail-2f143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398760642952:android:cb94cd877beb04025d923d",
+        "android_client_info": {
+          "package_name": "com.example.malabargold"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2egOLETnxx4omSAvotzDc8GZ1uTyNnfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
